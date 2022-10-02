@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-/static/css/main.cc4c9d07.css",
+    "main.js": "/portfolio-/static/js/main.0e32298c.js",
+    "static/media/invertech.png": "/portfolio-/static/media/invertech.196ec6496c942250442e.png",
+    "index.html": "/portfolio-/index.html",
+    "main.cc4c9d07.css.map": "/portfolio-/static/css/main.cc4c9d07.css.map",
+    "main.0e32298c.js.map": "/portfolio-/static/js/main.0e32298c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4c9d07.css",
+    "static/js/main.0e32298c.js"
+  ]
+}
